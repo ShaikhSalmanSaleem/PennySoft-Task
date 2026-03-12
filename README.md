@@ -1,4 +1,4 @@
-# Playwright E2E Framework - Conduit App (RealWorld)
+# Playwright E2E Framework - Conduit App (RealWorld) - PennySoft
 
 This repository contains a professional End-to-End (E2E) testing framework built with Playwright and TypeScript for the Conduit (RealWorld) application.
 
